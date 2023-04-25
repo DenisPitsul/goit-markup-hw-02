@@ -92,7 +92,7 @@ body {
     visibility: hidden;
 }
 
-.advatages-title-item {
+.title-item {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -100,7 +100,7 @@ body {
     color: #2e2f42;
 }
 
-.advatages-text-item {
+.text-item {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
@@ -114,4 +114,12 @@ body {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+}
+
+.our-team-section {
+    background-color: #F4F4FD;
+}
+
+.employee-list-item {
+    background-color: #FFFFFF
 }

@@ -159,7 +159,7 @@ body {
 
 .portfolio-button:hover,
 .portfolio-button:focus {
-    background-color: #FFFFFF;
+    color: #FFFFFF;
     background-color: #404BBF;
 }
 

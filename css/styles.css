@@ -123,3 +123,21 @@ body {
 .employee-list-item {
     background-color: #FFFFFF
 }
+
+.footer {
+    background-color: #2e2f42;
+}
+
+.logo-studio-footer {
+    color: #f4f4fd;
+}
+
+.footer-description {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    letter-spacing: 0.02em;
+    color: #F4F4FD;
+}

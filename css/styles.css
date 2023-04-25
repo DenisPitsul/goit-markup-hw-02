@@ -6,7 +6,7 @@ body {
     font-family: "Raleway", sans-serif;
     font-family: "Roboto", sans-serif;
     color: #434455;
-    background-color: var(--background-color);;
+    background-color: var(--background-color);
 }
 
 .logo {
@@ -36,12 +36,12 @@ body {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42
+    color: #2e2f42;
 }
 
 .list-item:hover,
 .list-item:focus {
-    color: #404bbf
+    color: #404bbf;
 }
 
 .address {
@@ -55,7 +55,35 @@ body {
     color: #434455;
 }
 
-.address-link:hover
+.address-link:hover,
 .address-link:focus {
     color: #404bbf;
+}
+
+.first-section {
+    background-color: #2e2f42;
+}
+
+.main-title {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+}
+
+.order-service-button {
+    background-color: #4D5AE5;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+.order-service-button:hover,
+.order-service-button:focus {
+    background-color: #404BBF;
 }
